@@ -15,10 +15,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
+- Programador amateur en python
+- Juego efootball en mis tiempos libres
+- Aprendo diseño de sitios web de manera autodidacta 
+- Personal website
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
